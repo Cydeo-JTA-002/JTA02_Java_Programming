@@ -25,7 +25,7 @@ public class LogicalOperators {
          int price1=1900;
          int price2=2000;
          // am i gonna sell or not 1 bidding price is ok for me
-        // in OR ops you hear at least
+        // in OR ops you hear >>"at least"
 
         // in AND you hear ALL
 
