@@ -15,5 +15,4 @@ public class operatorsTask1 {
         counter--;
         System.out.println("counter = " + counter);
     }
-
 }
