@@ -12,7 +12,7 @@ public class SingleIf {
        }
 
         System.out.println("I am out of if code block");
-        System.out.println("continue coding");
+        System.out.println("continue    coding");
 
 
         System.out.println("*************************************");

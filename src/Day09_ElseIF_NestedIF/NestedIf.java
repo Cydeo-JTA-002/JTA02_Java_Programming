@@ -4,8 +4,6 @@ public class NestedIf {
     public static void main(String[] args) {
 
         int age=15;
-
-
         if (age>0 && age<120) {
 
             //System.out.println("here I have my Age Program, Senior, Teenager, Bay etc.");
@@ -20,18 +18,9 @@ public class NestedIf {
             }else{
                 System.out.println("You are a Baby");
             }
-
-
         }else{
             System.out.println("not a Valid Age, please enter a correct age! ");
         }
-
-
-
-
-
-
-
     }
 
 
