@@ -15,7 +15,6 @@ public class IfElseHomework {
         }else{
             System.out.println(num2 + " is the bigger number");
         }
-
         System.out.println("bigger number decider program ended");
 
     }
