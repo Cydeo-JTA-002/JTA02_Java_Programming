@@ -13,6 +13,7 @@ public class StringMethodsWithArray {
 
        // toCharArray
         System.out.println(Arrays.toString(email.toCharArray()));
+      
 
     }
 }
