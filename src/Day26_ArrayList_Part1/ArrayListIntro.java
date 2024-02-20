@@ -53,5 +53,7 @@ public class ArrayListIntro {
         priceList.add(3.99);
         System.out.println(priceList);
         System.out.println("priceList.size() = " + priceList.size());
+
+
     }
 }
