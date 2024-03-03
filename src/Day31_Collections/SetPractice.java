@@ -7,7 +7,7 @@ public class SetPractice {
     public static void main(String[] args) {
 // not keeping insertion order
 // doesn't have index
-        Set <String> mySet = new HashSet<>();
+        Set<String> mySet = new HashSet<>();
 
         mySet.add("Rumeysa");
         mySet.add("Lola");
@@ -20,22 +20,28 @@ public class SetPractice {
 
         System.out.println(mySet);
 
-        for ( String name    : mySet ) {
+        for (String name : mySet) {
 
             System.out.println(name);
         }
         System.out.println(mySet.contains("Ali"));
 
-        Set <Integer> mySet2 = new LinkedHashSet<>(Arrays.asList(3,7,1,89,77,77,3,1,1,1));
+        Set<Integer> mySet2 = new LinkedHashSet<>(Arrays.asList(3, 7, 1, 89, 77, 77, 3, 1, 1, 1));
 
         System.out.println(mySet2);
 
 
-        //Please come back at 11:35
+        Set<Double> mySetDouble = new TreeSet<>();
+        mySetDouble.add(3.99);
+        mySetDouble.add(2.99);
+        mySetDouble.add(99.99);
+        mySetDouble.add(1.5);
+        mySetDouble.add(99.99);
+        mySetDouble.add(1.5);
+        System.out.println(mySetDouble);
 
 
     }
-
 
 
 }
