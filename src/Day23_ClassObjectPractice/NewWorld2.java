@@ -10,6 +10,7 @@ public class NewWorld2 {
         Enemy monster1 = new Enemy();
         Enemy monster2 = new Enemy();
 
+
         player1.name = "Alex";
         player1.food = 10;
         player1.health = 5;

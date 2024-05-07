@@ -3,7 +3,7 @@ package Day10_IfReview_SwitchStatement;
 public class SwitchPractice2 {
     public static void main(String[] args) {
 
-        String weather = "hot";
+        String weather = "rainy";
 
         switch (weather) {
             case "windy":
